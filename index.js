@@ -66,7 +66,7 @@ function nextCV(){
         <li class="list-group-item">Name : ${CurrentCandidate.name}</li>
         <li class="list-group-item">Age : ${CurrentCandidate.age}</li>
         <li class="list-group-item">Lives in ${CurrentCandidate.city}</li>
-        <li class="list-group-item">Primarily works on ${CurrentCandidate.language}</li>
+        <li class="list-group-item">Primarily works on : ${CurrentCandidate.language}</li>
         <li class="list-group-item">Uses ${CurrentCandidate.framework}</li>
         </ul>`
     }
